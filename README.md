@@ -1,4 +1,5 @@
 # Isolator-PHP
+PROJECT MIGRATED TO https://github.com/FlareMediaPlayer/FlareCodec
 Php Library for Iso file utilities
 www.isolator.io (coming soon!)
 
